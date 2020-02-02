@@ -918,4 +918,7 @@ sidebarDepth: 2
 table {
   font-size: 12px;
 }
+p {
+  line-height: 2;
+}
 </style>
