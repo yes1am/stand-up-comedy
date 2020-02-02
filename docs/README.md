@@ -919,6 +919,6 @@ table {
   font-size: 12px;
 }
 p {
-  line-height: 2;
+  line-height: 2!important;
 }
 </style>
