@@ -1,4 +1,4 @@
-Link: https://yes1am.github.io/stand-up-comedy/
+在线预览: https://yes1am.github.io/stand-up-comedy/
 
 ## 说明
 
