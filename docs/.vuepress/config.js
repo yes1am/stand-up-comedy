@@ -7,7 +7,8 @@ module.exports = {
     search: false,
     smoothScroll: true,
     nav: [
-      { text: '单立人喜剧', link: 'http://www.danlirencomedy.com/' },
+      { text: 'Fork me on Github', link: 'https://github.com/yes1am/stand-up-comedy' },
+      { text: '单立人喜剧', link: 'http://www.danlirencomedy.com/' }
     ],
     sidebar: [
       '/',
